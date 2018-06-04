@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndroidConnectingToPhpMySQLActivity!</string>
+    <string name="app_name">ConnectingPhpMysqlSqlite</string>
+    <string name="view_products">View Products</string>
+    <string name="Add_New_Products">Add New Products</string>
+    
+    <string name="edit_product_name">Product Name</string>
+    <string name="edit_price">Price</string>
+    <string name="edit_description">Description your product</string>
+    <string name="edit_message">Insert product name here</string>
+    <string name="edit_message2">Insert description here</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="Delete">Delete</string>
+    
+    <string name="Create_Product">Create Product</string>
+    
+    
+</resources>
