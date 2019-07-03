@@ -1,0 +1,70 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   xmlns:tools="http://schemas.android.com/tools"
+   android:layout_width="match_parent"
+   android:layout_height="match_parent"
+   tools:context=".MainActivity" >
+
+   <TextView
+      	android:id="@+id/text1"
+      	android:layout_width="wrap_content"
+      	android:layout_height="wrap_content"
+      	android:layout_marginTop="10dp"
+      	android:text="Recording Point: -"
+      	android:textAppearance="?android:attr/textAppearanceMedium" />
+
+   <ImageView
+   		android:id="@+id/micImage"
+      	android:layout_width="60dp"
+      	android:layout_height="60dp"
+      	android:layout_below="@+id/text1"
+      	android:layout_centerHorizontal="true"
+      	android:layout_marginTop="20dp"
+      	android:src="@android:drawable/presence_audio_online" />
+   
+   <LinearLayout  android:layout_width="match_parent"
+   		android:layout_height="wrap_content"
+   		android:layout_marginTop="10dp"
+   		android:layout_below="@+id/micImage"
+   		android:id="@+id/linear1"
+   		android:orientation="horizontal" >
+
+	   <Button
+	      	android:id="@+id/start"
+	      	android:layout_width="wrap_content"
+	      	android:layout_height="wrap_content"
+	      	android:text="start" />
+	
+	   <Button
+	      	android:id="@+id/stop"
+	      	android:layout_width="wrap_content"
+	      	android:layout_height="wrap_content"
+	      	android:layout_marginLeft="10dp"
+	      	android:enabled="false"
+	      	android:text="stop" />
+   
+   </LinearLayout>
+   
+   <LinearLayout  android:layout_width="match_parent"
+   		android:layout_height="wrap_content"
+   		android:layout_marginTop="10dp"
+   		android:layout_below="@+id/linear1"
+   		android:id="@+id/linear2"
+   		android:orientation="horizontal" >
+
+	   <Button
+	      	android:id="@+id/play"
+	      	android:layout_width="wrap_content"
+	      	android:layout_height="wrap_content"
+	      	android:enabled="false"
+	      	android:text="play" />
+	   
+	   <Button
+	      	android:id="@+id/stopPlay"
+	      	android:layout_width="wrap_content"
+	      	android:layout_height="wrap_content"
+	      	android:enabled="false"
+	      	android:layout_marginLeft="10dp"
+	      	android:text="stop playing" />
+	</LinearLayout> 
+
+</RelativeLayout>
