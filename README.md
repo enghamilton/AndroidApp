@@ -1,1 +1,39 @@
 # AndroidApp
+
+Java com SDK Android 4.2 Api nível 17:
+- NFC beam (entre outras coisas para pagamentos pelo App https://youtu.be/a_uJHXjYZ9I )
+- Bluetooth Client Server Sides, Sockets (Bluetooth)
+- RESTFul webservices (somente 🐘 php mysql json, ainda não XML)
+- AsyncTask
+- ListView, GridView, BaseAdapter
+- Intent
+- TelephonyManager (Sdk 4.4 ou 5 Api nível 19 - permite verificar ligação tel. foi atendida)
+- SQLite
+- SpeechToText, TextToSpeech
+- Services
+- TimerScheduler
+- SMS Manager
+- Voice Recorder
+- Shared Preferences
+- External Storage SD card
+- HTTP request GET e POST
+- FileCache (imagens)
+- JSON parser
+- Lazy image Loader
+- GridView
+- Play Media Audio
+- Phone State Listener
+- AlarmManager
+- SMS Manager
+https://github.com/enghamilton/AndroidApp
+
+- iniciante JUnit teste unitários (JUnit 4).
+- Gradle, Maven (noções).
+- iniciante em Kotlin.
+- Versionamento GitHub coisas básicas (git push) exemplos links :
+https://github.com/enghamilton/0AndroidConnectPHPMySQL
+https://github.com/enghamilton/PHPMySQL
+https://youtu.be/eDVgwMs5bvE
+
+• Iniciante em Java EE em Eclipse IDE.
+• Iniciante em Java Spring MVC (bean) e Spring Boot com Hibernate (JPA, JSF, Java web, JDBC).
