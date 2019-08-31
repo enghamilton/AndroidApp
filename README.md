@@ -1,6 +1,10 @@
 # AndroidApp
 
-Java com SDK Android 4.2 Api nível 17:
+Compilador com Eclipse IDE sdk ADT Android developer tools do site developer.android.com downloaded no ano de 2012.
+
+Os Apps foram escritos no Eclipse. Todos Funcionaram corretamente.
+
+Java com SDK Android 4.0 Api nível 17:
 - NFC beam (entre outras coisas para pagamentos pelo App https://youtu.be/a_uJHXjYZ9I )
 - Bluetooth Client Server Sides, Sockets (Bluetooth)
 - RESTFul webservices (somente 🐘 php mysql json, ainda não XML)
