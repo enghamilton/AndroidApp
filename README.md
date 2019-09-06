@@ -5,7 +5,7 @@ Compilador com Eclipse IDE sdk ADT Android developer tools do site developer.and
 Os Apps foram escritos no Eclipse. Todos Funcionaram corretamente.
 
 Java com SDK Android 4.0 Api nível 17:
-- NFC beam (entre outras coisas para pagamentos pelo App https://youtu.be/a_uJHXjYZ9I )
+- NFC beam (entre outras coisas para pagamentos pelo App https://youtu.be/a_uJHXjYZ9I eu hamilton publiquei o video)
 - Bluetooth Client Server Sides, Sockets (Bluetooth)
 - RESTFul webservices (somente 🐘 php mysql json, ainda não XML)
 - AsyncTask
