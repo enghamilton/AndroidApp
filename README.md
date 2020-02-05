@@ -41,3 +41,4 @@ https://youtu.be/eDVgwMs5bvE
 
 • Iniciante em Java EE em Eclipse IDE.
 • Iniciante em Java Spring MVC (bean) e Spring Boot com Hibernate (JPA, JSF, Java web, JDBC).
+http://javarestjson.herokuapp.com/api/produtos
