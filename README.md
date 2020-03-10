@@ -32,6 +32,7 @@ Java com SDK Android 4.0 Api level 17:
 - Phone State Listener
 - AlarmManager
 - SMS Manager
+- NFC  [link to GitHub NFC!](https://github.com/enghamilton/AndroidApp/tree/master/0NFCdemo)
 https://github.com/enghamilton/AndroidApp
 
 - iniciante JUnit teste unitários (JUnit 4).
